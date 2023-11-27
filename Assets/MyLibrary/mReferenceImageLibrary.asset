@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: mReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4716171717586567760
+  m_GuidHigh: 4344255746069607856
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5235529084954887647
+      m_GuidHigh: 6471231069158780589
+    m_SerializedTextureGuid:
+      m_GuidLow: 4351767007046074146
+      m_GuidHigh: 15750299916356532089
+    m_Size: {x: 0.28, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: angry
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5310691846014793983
+      m_GuidHigh: 15264250434894614408
+    m_SerializedTextureGuid:
+      m_GuidLow: 6932280720887210421
+      m_GuidHigh: 13113136935990371288
+    m_Size: {x: 0.14, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: love
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5369592865899967073
+      m_GuidHigh: 6450694703922553766
+    m_SerializedTextureGuid:
+      m_GuidLow: 2316032638598731533
+      m_GuidHigh: 1106234577625266089
+    m_Size: {x: 0.14, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: silly
+    m_Texture: {fileID: 0}
